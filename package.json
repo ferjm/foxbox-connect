@@ -1,0 +1,15 @@
+{
+  "name": "foxbox-connect",
+  "version": "1.0.0",
+  "description": "Client library to create a connection with a FoxBox Bridge server",
+  "author": "Fernando Jimenez Moreno <ferjmoreno@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^12.0.1",
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^2.0.0",
+    "jshint": "^2.8.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {}
+}

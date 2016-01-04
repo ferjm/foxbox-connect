@@ -1,0 +1,19 @@
+{
+  "name": "foxbox-connect",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "Fernando Jiménez Moreno <ferjmoreno@gmail.com>"
+  ],
+  "description": "Client library to create a connection with a FoxBox Bridge server",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fxa-relier-client": "https://github.com/mozilla/fxa-relier-client.git"
+}
